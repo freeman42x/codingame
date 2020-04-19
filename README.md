@@ -1,2 +1,1 @@
-# codingame
-CodinGame exercises
+# CodinGame exercises
